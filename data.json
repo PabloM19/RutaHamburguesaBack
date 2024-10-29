@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "name": "Burger Deluxe",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Deliciosas hamburguesas gourmet con ingredientes frescos y de alta calidad.",
+    "lastVisited": "2024-03-15",
+    "address": "123 Burger Street, Ciudad Ejemplo",
+    "phone": "+1 234 567 890",
+    "menu": {
+      "entrantes": [
+        { "name": "Aros de Cebolla Crujientes", "rating": 4.2 },
+        { "name": "Nachos con Queso Fundido", "rating": 3.8 }
+      ],
+      "principales": [
+        { "name": "Classic Burger", "rating": 4.5 },
+        { "name": "Cheese Lover", "rating": 4.3 },
+        { "name": "Veggie Delight", "rating": 3.9 }
+      ],
+      "postres": [
+        { "name": "Brownie con Helado", "rating": 4.7 },
+        { "name": "Tarta de Queso", "rating": 4.1 }
+      ],
+      "bebidas": [
+        { "name": "Refresco", "rating": 3.5 },
+        { "name": "Batido de Chocolate", "rating": 4.2 }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Grill Master",
+    "rating": 3,
+    "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Especialidad en hamburguesas a la parrilla con sabores ahumados únicos.",
+    "lastVisited": "2024-03-20",
+    "address": "456 Grill Avenue, Ciudad Ejemplo",
+    "phone": "+1 987 654 321",
+    "menu": {
+      "entrantes": [
+        { "name": "Alitas BBQ", "rating": 3.9 },
+        { "name": "Palitos de Mozzarella", "rating": 3.5 }
+      ],
+      "principales": [
+        { "name": "Grilled Classic", "rating": 3.8 },
+        { "name": "Spicy Jalapeño", "rating": 4.1 },
+        { "name": "Smokey BBQ", "rating": 3.7 }
+      ],
+      "postres": [
+        { "name": "Helado de Vainilla", "rating": 3.2 },
+        { "name": "Tarta de Manzana", "rating": 3.6 }
+      ],
+      "bebidas": [
+        { "name": "Limonada Casera", "rating": 4.0 },
+        { "name": "Cerveza Artesanal", "rating": 4.3 }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Patty Paradise",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "El paraíso de las hamburguesas gourmet con ingredientes premium.",
+    "lastVisited": "2024-03-01",
+    "address": "789 Paradise Lane, Ciudad Ejemplo",
+    "phone": "+1 246 135 790",
+    "menu": {
+      "entrantes": [
+        { "name": "Ensalada César", "rating": 4.5 },
+        { "name": "Sopa del Día", "rating": 4.2 }
+      ],
+      "principales": [
+        { "name": "Paradise Special", "rating": 4.9 },
+        { "name": "Tropical Burger", "rating": 4.7 },
+        { "name": "Veggie Paradise", "rating": 4.6 }
+      ],
+      "postres": [
+        { "name": "Banana Split", "rating": 4.8 },
+        { "name": "Tiramisú", "rating": 4.5 }
+      ],
+      "bebidas": [
+        { "name": "Smoothie de Frutas", "rating": 4.6 },
+        { "name": "Café Helado", "rating": 4.4 }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Urban Bites",
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Hamburguesas urbanas con un toque moderno y cosmopolita.",
+    "lastVisited": "2024-03-10",
+    "address": "101 Urban Street, Ciudad Ejemplo",
+    "phone": "+1 357 924 680",
+    "menu": {
+      "entrantes": [
+        { "name": "Bruschetta", "rating": 4.3 },
+        { "name": "Hummus con Pita", "rating": 4.0 }
+      ],
+      "principales": [
+        { "name": "Urban Classic", "rating": 4.4 },
+        { "name": "Mediterranean Burger", "rating": 4.6 },
+        { "name": "Asian Fusion", "rating": 4.2 }
+      ],
+      "postres": [
+        { "name": "Crème Brûlée", "rating": 4.5 },
+        { "name": "Mousse de Chocolate", "rating": 4.3 }
+      ],
+      "bebidas": [
+        { "name": "Té Helado Casero", "rating": 4.1 },
+        { "name": "Mocktails", "rating": 4.4 }
+      ]
+    }
+  }
+]
